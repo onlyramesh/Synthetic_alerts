@@ -9,4 +9,3 @@ Imported requests packages to check the status of a API.
 
 Imported slack packages to send an alert to the slack channel.
 
-//Edited Successfully for jenkins test
