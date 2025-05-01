@@ -11,5 +11,5 @@ slack_token = dict(
     )
 
 api=dict(
-    # path="/Users/noonacademy/Desktop/API_list.txt"
+    # path="/Users/Desktop/API_list.txt"
 )
